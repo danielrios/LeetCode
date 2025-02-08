@@ -1,4 +1,5 @@
 # 1726. Tuple with Same Product
+
 ![][medium-shield]
 ![][topic1-shield]
 ![][topic2-shield]
@@ -39,6 +40,9 @@
 <!-- LINK GROUP -->
 
 [medium-shield]: https://img.shields.io/badge/medium-fe7d37
+
 [topic1-shield]: https://img.shields.io/badge/array-777
+
 [topic2-shield]: https://img.shields.io/badge/hash%20table-777
+
 [topic3-shield]: https://img.shields.io/badge/counting-777
