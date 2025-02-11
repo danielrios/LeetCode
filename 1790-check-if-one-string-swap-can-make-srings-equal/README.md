@@ -1,4 +1,5 @@
 # 1790. Check if One String Swap Can Make Strings Equal
+
 ![][easy-shield]
 ![][topic1-shield]
 ![][topic2-shield]
@@ -42,6 +43,9 @@
 <!-- LINK GROUP -->
 
 [easy-shield]: https://img.shields.io/badge/easy-46c6c2
+
 [topic1-shield]: https://img.shields.io/badge/hash%20table-777
+
 [topic2-shield]: https://img.shields.io/badge/string-777
+
 [topic3-shield]: https://img.shields.io/badge/counting-777
